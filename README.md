@@ -9,3 +9,7 @@
 <img src="https://media1.giphy.com/media/vvW9GuxsGM4lcjqypz/200w.gif?cid=6c09b9523oz589qdpxt3uysnqp0iymcnuda00ua0auwjme9b&ep=v1_gifs_search&rid=200w.gif&ct=g"> <hr>
 Projem ana ekranda profil sekmesinde gözükmektedir.<br>
 Seçmek için Seyma-Pirim-Proje1 kısmına tıklamalısınız.
+<hr>
+<iframe src= "youtube link"
+title="description"></iframe> <hr>
+
