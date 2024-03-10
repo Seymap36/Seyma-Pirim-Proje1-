@@ -1,4 +1,4 @@
-<h1 style="color:red, font-family: Times New Roman; font-size:55px"> Seyma-Pirim-Proje1- </h1>
+<h1 style="color:red; font-family: Times New Roman; font-size:55px"> Seyma-Pirim-Proje1- </h1>
 ## derslerde yaptığımız örnbeklerden
 ### Vektörel bilişim derste yapılan projelerden birincisi.
 <hr>
